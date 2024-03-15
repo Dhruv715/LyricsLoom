@@ -1,0 +1,68 @@
+.albumname{
+    padding-left: 20px;
+    color: rgb(197, 197, 197);
+}
+.boxformalbum{
+    background-color: black;
+    height: 500px;
+    width: 60%;
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 100px;
+    /* text-align: center; */
+}
+.boxformalbum  input{
+    margin: 20px 0px;
+}
+.boxformalbum form div{
+    display: flex;
+    margin: 13px 0px;
+    flex-direction: column;
+    width: 100%;
+    
+}
+.flexremove{
+    display: inline !important; 
+}
+.boxformalbum form label{
+    color: gray;
+    padding-left: 10px;
+    font-size: 1.2rem;
+}
+.namefield input{
+    padding: 10px 20px;
+    border: 2px solid rgb(197, 197, 197);
+    border-radius: 10px;
+    outline: none;
+    background-color: transparent;
+    margin: 5px 0px;
+    width: 250px;
+    color: gray;
+}
+input[type="date"]{
+    border:  2px solid rgb(197, 197, 197);
+    width: 250px !important;
+    padding: 10px 20px;
+    background-color: transparent;
+    color: gray;
+}
+input[type="file"]{
+    width: 250px !important;
+}
+input[type="submit"]{
+    padding: 10px 20px;
+    border: 2px solid rgb(197, 197, 197);
+    background-color: rgb(197, 197, 197);
+    /* color: rgb(197, 197, 197); */
+    color: black;
+    margin: 10px 0px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px auto;
+    transform: scale(1.1);
+    transition: all ease-in-out .2s;
+}
+input[type="submit"]:hover{
+    /* transform: scale(1.2rem); */
+    font-size: 1.1rem;
+}

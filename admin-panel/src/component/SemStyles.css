@@ -1,0 +1,161 @@
+.bgsemiblacky{
+    background-color: rgb(48, 48, 48);
+    width: 80vw;
+    height: 100vh;
+    overflow: hidden;
+    overflow-y: scroll;
+    padding: 20px;
+    color: rgb(197, 197, 197);
+}
+.boxblacky{
+    background-color: black;
+    border-radius: 20px;
+    height: 580px;
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.albumtable{ 
+    width: 90%;
+    color: white;
+    padding: 20px 10px;
+    border-collapse: collapse;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+.albumtable tr td{
+    border:  1px solid gray;
+    text-align: center;
+    padding: 10px 0px;
+}
+.albumtable  tr:nth-child(odd){
+        background-color: black;
+}
+.albumtable tr:nth-child(even){
+    background-color: rgb(0, 0, 0);
+}
+.postercolumn{
+    width: 20%;
+}
+.postercolumn1{
+    width: 20%;
+}
+.Categoryname{
+    width: 50%;
+}
+.Actionbox2{
+    width: 30%;
+}
+.postercolumn1 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+.postercolumn2{
+    width: 10%;
+}
+.Albumname2{
+    width: 20%;
+}
+.Albumname3{
+    width: 10%;
+}
+.postercolumn2 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+.postercolumn3 {
+    width: 10%;
+}
+.postercolumn3 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+.Albumname{
+    width: 20%;
+}
+.Albumname button{
+    padding: 8px 15px;
+    margin: 0px 2px;
+}
+.Albumname2 button{
+    padding: 8px 15px;
+    margin: 0px 2px;
+}
+.Albumname5{
+    width: 20%;
+}
+.Albumname5 button{
+    padding: 8px 15px;
+    margin: 0px 2px;
+}
+.Albumname5 button:nth-child(odd){
+    background-color: orange;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+}
+.Albumname4{
+    width: 10%;
+}
+.Albumname5 button:nth-child(odd){
+    background-color: orange;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+}
+.Albumname2 button:nth-child(odd){
+    background-color: orange;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+}
+.Albumname2 button:nth-child(odd){
+    background-color: orange;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+}
+.albumtable button:nth-child(odd){
+    background-color: orange;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+}
+.albumtable button:nth-child(even){
+    background-color: red;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+}
+.Actionbox2 button{
+    padding: 8px 15px;
+    margin: 0px 2px;
+}
+.Actionbox2 button:nth-child(odd){
+    background-color: orange;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+}
+.Actionbox2 button:nth-child(even){
+    background-color: red;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+}
+.postercolumn img{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}

@@ -1,0 +1,63 @@
+.songbox{
+    background-color: rgb(48, 48, 48);
+    width: 80vw;
+    height: 100vh;
+    overflow: hidden;
+    padding: 10px;
+}
+.songname{
+    padding-left: 20px;
+    color: rgb(197, 197, 197);
+}
+.formsongdetails{
+    background-color: black;
+    height: 500px;
+    width: 80%;
+    border-radius: 20px;
+    padding: 20px;
+}
+.dflexy{
+    display: flex;
+    height: 100px;
+    /* background-color: red; */
+    justify-content: center;
+
+}
+.dflexy .inputcommon{
+    width: 40%;
+    color: white;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.inputcommon label{
+    color: gray;
+    width: 20%;
+    margin-right: 20px;
+}
+.dflexy .inputcommon input{
+    padding: 10px 20px;
+    border: 2px solid rgb(197, 197, 197);
+    border-radius: 10px;
+    outline: none;
+    background-color: transparent;
+    margin: 5px 0px;
+    width: 75%;
+    color: gray;
+}
+
+.semibox{
+    padding: 10px 20px;
+    border: 2px solid rgb(197, 197, 197);
+    background-color: rgb(197, 197, 197);
+    /* color: rgb(197, 197, 197); */
+    color: black;
+    margin: 10px 0px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px auto;
+    transform: scale(1.1);
+    /* transition: all ease-in-out .2s; */
+    margin-left: 90px !important;
+}
