@@ -1,0 +1,69 @@
+.flexy{
+    display: flex;
+}
+.rowflexy{
+    height: 30vh !important;
+}
+.rowflexy h1{
+        font-size: 2.5rem !important;
+        
+}
+.rowflexy p{
+    font-size: 1.2rem;
+}/* Updated CSS for the track bar */
+.track-bar {
+  width: 100%;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  color: white;
+}
+
+/* Updated CSS for the progress bar */
+.progress-bar {
+  height: 5px;
+  width: 90%; /* Adjust width of the progress bar as needed */
+  background-color: #333;
+  border-radius: 5px;
+  position: relative;
+  margin: 1px auto;
+}
+
+/* Updated CSS for the marker */
+/* Updated CSS for the marker */
+/* Updated CSS for the marker */
+.marker {
+  position: absolute;
+  top: -5px;
+  transform: translateX(-50%);
+  width: 10px;
+  height: 20px;
+  background-color: white;
+  border-radius: 50%;
+  border: 2px solid black;
+  z-index: 1;
+  cursor: pointer; /* Add cursor pointer to indicate draggable */
+  transition: left 0.1s ease-in-out; /* Add transition for smooth movement */
+}
+
+/* Updated CSS for the time display */
+.time-display {
+  font-size: 14px;
+  /* Adjust width of the time display as needed */
+  
+}
+.time-display span:nth-child(odd){
+  position: absolute;
+  left: 20px;
+}
+
+.time-display span:nth-child(even){
+  position: absolute;
+  right: 20px;
+}

@@ -1,0 +1,87 @@
+.mainboxs{
+    background-color: black;
+    padding: 10px;
+    height: 100vh;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    position: relative;
+}
+.boxypart{
+    width: calc(100vw - 25vw);
+    height: 100vh;
+    border-radius: 10px;
+    background-color: #121212;
+    /* padding: 10px; */
+    overflow: hidden;
+    position: fixed;
+    top: 0px;
+}
+.form-container{
+    background-color: rgb(30, 30, 30);
+    width: 300px;
+    padding: 20px;
+    margin: 20vh auto;
+    height: 200px;
+    border-radius: 20px;
+}
+.form-container h1{
+    color: white;
+    font-family: poppins;
+    /* margin-bottom: 40px; */
+    font-size: 1.7rem;
+}
+
+.form-container form{
+    display: flex;
+    
+    flex-direction: column;
+}
+.loginform{
+    height: 300px;
+}
+.signup{
+    height: 400px;
+}
+.form-container form input[type="text"]{
+        margin: 10px 0px;
+        border: none;
+        outline: none;
+        padding: 10px 20px;
+        border-radius: 10px;
+}
+.form-container form input[type="tel"]{
+    margin: 10px 0px;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.form-container form input[type="email"]{
+    margin: 10px 0px;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.form-container form input[type="password"]{
+    margin: 10px 0px;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.form-container form input[type="text"]::placeholder{
+    font-family: poppins;
+}
+
+.form-container form button{
+    padding: 10px;
+    width: 100px;
+    border: none;
+    outline: none;
+    /* margin: 10px auto; */
+    border-radius: 10px;
+    font-family: poppins;
+    background-color: gray;
+    color: white;
+}
