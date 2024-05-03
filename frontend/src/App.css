@@ -1,0 +1,81 @@
+.flexy{
+    display: flex;
+}
+.rowflexy{
+    height: 30vh !important;
+}
+.rowflexy h1{
+        font-size: 2.5rem !important;
+        
+}
+.rowflexy p{
+    font-size: 1.2rem;
+}
+.signupforms{
+    /* height: 400px; */
+    width: 350px;
+    background-color: rgba(56, 56, 56, 0.5);
+    border-radius: 10px;
+    margin: 1vh auto;
+    color: lightgray;
+    padding: 30px;
+    text-align: justify;
+}
+.signupforms p{
+    font-size: .8rem;
+    color: salmon;
+}
+.rowssign{
+    display: flex;
+    margin: 20px 0px;
+}
+.rowssign label{
+    width: 30%;
+    font-size: 1.1rem;
+}
+.rowssign input{
+    outline: none;
+    border: none;
+}
+.signupforms h1{
+    font-size: 1.8rem;
+}
+.signupforms button{
+    padding: 10px 20px;
+    background-color: lightgray;
+    color: black;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+}
+.Loginforms{
+    height: 300px;
+    width: 350px;
+    background-color: rgba(56, 56, 56, 0.5);
+    border-radius: 10px;
+    margin: 20vh auto;
+    color: lightgray;
+    padding: 20px 10px;
+    text-align: justify;
+    padding: 30px;
+}
+.Loginforms h1{
+    font-size: 1.8rem;
+    padding-bottom: 20px;
+}
+.Loginforms button{
+    padding: 10px 20px;
+    background-color: lightgray;
+    color: black;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+}
+.boxs{
+    overflow: hidden;
+}
+.Lyricstext{
+        padding-left: 20px;
+        color: white;
+        height: auto;
+}

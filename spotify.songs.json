@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "65f43d9bb6ce5cdc32115bfe"
+  },
+  "name": "I Knew You Were Trouble",
+  "image": "i knew you were trouble polaroid poster.jpg",
+  "album": {
+    "$oid": "65f42460ada4194ccc1c3c98"
+  },
+  "date": {
+    "$date": "2024-03-15T12:22:48.202Z"
+  },
+  "artist": {
+    "$oid": "65f43b69e047bb983fb59788"
+  },
+  "category": {
+    "$oid": "65f421d0ada4194ccc1c3c8e"
+  },
+  "relesed": 2021,
+  "lyrics": "Once upon a time\nA few mistakes ago\nI was in your sights\nYou got me alone\nYou found me\nYou found me\nYou found me\nI guess you didn't care\nAnd I guess I liked that\nAnd when I fell hard\nYou took a step back\nWithout me\nWithout me\nWithout me\nAnd he's long gone\nWhen he's next to me\nAnd I realize\nThe blame is on me\n'Cause I knew you were trouble when you walked in\nSo shame on me now\nFlew me to places I'd never been\n'Til you put me down, oh\nI knew you were trouble when you walked in\nSo, shame on me now\nFlew me to places I'd never been\nNow I'm lyin' on the cold hard ground\nOh, oh\nTrouble, trouble, trouble\nOh, oh\nTrouble, trouble, trouble\nNo apologies\nHe'll never see you cry\nPretends he doesn't know\nThat he's the reason why\nYou're drowning\nYou're drowning\nYou're drowning\nAnd I heard you moved on\nFrom whispers on the street\nA new notch in your belt\nIs all I'll ever be\nAnd now I see\nNow I see\nNow I see\nHe was long gone\nWhen he met me\nAnd I realize\nThe joke is on me, hey\nI knew you were trouble when you walked in (oh)\nSo shame on me now\nFlew me to places I'd never been\n'Til you put me down, oh\nI knew you were trouble when you walked in\nSo shame on me now\nFlew me to places I'd never been, yeah\nNow I'm lyin' on the cold hard ground\nOh, oh (yeah)\nTrouble, trouble, trouble\nOh, oh\nTrouble, trouble, trouble\nAnd the saddest fear\nComes creepin' in\nThat you never loved me\nOr her\nOr anyone\nOr anything\nYeah\nI knew you were trouble when you walked in\nSo shame on me now\nFlew me to places I'd never been (never been)\n'Til you put me down, oh\nI knew you were trouble when you walked in (knew it right there)\nSo shame on me now (knew it right there)\nFlew me to places I'd never been\n(Ooh) now I'm lyin' on the cold hard ground\nOh, oh\nTrouble, trouble, trouble (oh)\nOh, oh\nTrouble, trouble, trouble\nI knew you were trouble when you walked in\nTrouble, trouble, trouble\nI knew you were trouble when you walked in\nTrouble, trouble, trouble",
+  "duration": "3.42",
+  "file": "01 I Knew You Were Trouble. (Remix) [feat. Sammy Adams].mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f43ebcb6ce5cdc32115c00"
+  },
+  "name": "We Are Never Ever Getting Back Together\n",
+  "image": "red Taylor’s version.jpg",
+  "album": {
+    "$oid": "65f42460ada4194ccc1c3c98"
+  },
+  "date": {
+    "$date": "2024-03-15T12:22:48.202Z"
+  },
+  "artist": {
+    "$oid": "65f43b69e047bb983fb59788"
+  },
+  "category": {
+    "$oid": "65f421d0ada4194ccc1c3c8e"
+  },
+  "relesed": 2021,
+  "lyrics": "I remember when we broke up the first time\nSaying, \"This is it, I've had enough,\" 'cause like\nWe hadn't seen each other in a month\nWhen you said you needed space. (What?)\nThen you come around again and say\n\"Baby, I miss you and I swear I'm gonna change, trust me.\"\nRemember how that lasted for a day?\nI say, \"I hate you,\" we break up, you call me, \"I love you.\"\nOoh, we called it off again last night\nBut ooh, this time I'm telling you, I'm telling you\nWe are never ever ever getting back together,\nWe are never ever ever getting back together,\nYou go talk to your friends, talk to my friends, talk to me\nBut we are never ever ever ever getting back together\nLike, ever...\nI'm really gonna miss you picking fight\nAnd me falling for it screaming that I'm right\nAnd you would hide away and find your peace of mind\nWith some indie record that's much cooler than mine\nOoh, you called me up again tonight\nBut ooh, this time I'm telling you, I'm telling you\nWe are never, ever, ever getting back together\nWe are never, ever, ever getting back together\nYou go talk to your friends, talk to my friends, talk to me (talk to me)\nBut we are never ever ever ever getting back together\nOoh, yeah, ooh yeah, ooh yeah\nOh oh oh\nI used to think that we were forever ever\nAnd I used to say, \"Never say never...\"\nUggg... so he calls me up and he's like, \"I still love you,\"\nAnd I'm like... \"I just... I mean this is exhausting, you know, like,\nWe are never getting back together. Like, ever\"\nNo!\nWe are never ever ever getting back together\nWe are never ever ever getting back together\nYou go talk to your friends, talk to my friends, talk to me\nBut we are never ever ever ever getting back together\nWe, ooh, getting back together, ohhh,\nWe, ooh, getting back together\nYou go talk to your friends, talk to my friends, talk to me (talk to me)\nBut we are never ever ever ever getting back together",
+  "duration": "3:20",
+  "file": "01 We Are Never Ever Getting Back Together (Country Version).mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f43f97b6ce5cdc32115c02"
+  },
+  "name": "you belong with me",
+  "image": "Taylor Swift - You Belong With Me (Taylor’s Version).jpg",
+  "album": {
+    "$oid": "65f42460ada4194ccc1c3c98"
+  },
+  "date": {
+    "$date": "2024-03-15T12:22:48.202Z"
+  },
+  "artist": {
+    "$oid": "65f43b69e047bb983fb59788"
+  },
+  "category": {
+    "$oid": "65f42334ada4194ccc1c3c96"
+  },
+  "relesed": 2021,
+  "lyrics": "You're on the phone with your girlfriend, she's upset\nShe's going off about something that you said\n'Cause she doesn't get your humor like I do\nI'm in the room, it's a typical Tuesday night\nI'm listening to the kind of music she doesn't like\nAnd she'll never know your story like I do\nBut she wears short skirts\nI wear T-shirts\nShe's Cheer Captain, and I'm on the bleachers\nDreaming about the day when you wake up and find\nThat what you're looking for has been here the whole time\nIf you could see that I'm the one\nWho understands you\nBeen here all along\nSo, why can't you see?\nYou belong with me\nYou belong with me\nWalk in the streets with you in your worn-out jeans\nI can't help thinking this is how it ought to be\nLaughing on a park bench thinking to myself\nHey, isn't this easy?\nAnd you've got a smile\nThat can light up this whole town\nI haven't seen it in a while\nSince she brought you down\nYou say you're fine, I know you better than that\nHey, what you doing with a girl like that?\nShe wears high heels\nI wear sneakers\nShe's Cheer Captain, and I'm on the bleachers\nDreaming about the day when you wake up and find\nThat what you're looking for has been here the whole time\nIf you could see that I'm the one\nWho understands you\nBeen here all along\nSo, why can't you see?\nYou belong with me\nStanding by and waiting at your backdoor\nAll this time how could you not know, baby?\nYou belong with me\nYou belong with me\nOh, I remember you driving to my house\nIn the middle of the night\nI'm the one who makes you laugh\nWhen you know you're 'bout to cry\nAnd I know your favorite songs\nAnd you tell me 'bout your dreams\nThink I know where you belong\nThink I know it's with me\nCan't you see that I'm the one\nWho understands you?\nBeen here all along\nSo, why can't you see?\nYou belong with me\nStanding by and waiting at your backdoor\nAll this time how could you not know, baby?\nYou belong with me\nYou belong with me\nYou belong with me\nHave you ever thought just maybe\nYou belong with me?\nYou belong with me",
+  "duration": "4:20",
+  "file": "01 You Belong With Me (Pop Remix).mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f4405eb6ce5cdc32115c04"
+  },
+  "name": "cardigan",
+  "image": "cardigan.jpg",
+  "album": {
+    "$oid": "65f42460ada4194ccc1c3c98"
+  },
+  "date": {
+    "$date": "2024-03-15T12:22:48.202Z"
+  },
+  "artist": {
+    "$oid": "65f43b69e047bb983fb59788"
+  },
+  "category": {
+    "$oid": "65f422b0ada4194ccc1c3c94"
+  },
+  "relesed": 2021,
+  "lyrics": "Vintage tee, brand new phone\nHigh heels on cobblestones\nWhen you are young, they assume you know nothing\nSequin smile, black lipstick\nSensual politics\nWhen you are young, they assume you know nothing\nBut I knew you\nDancin' in your Levi's\nDrunk under a streetlight, I\nI knew you\nHand under my sweatshirt\nBaby, kiss it better, I\nAnd when I felt like I was an old cardigan\nUnder someone's bed\nYou put me on and said I was your favorite\nA friend to all is a friend to none\nChase two girls, lose the one\nWhen you are young, they assume you know nothin'\nBut I knew you\nPlaying hide-and-seek and\nGiving me your weekends, I\nI knew you\nYour heartbeat on the High Line\nOnce in 20 lifetimes, I\nAnd when I felt like I was an old cardigan\nUnder someone's bed\nYou put me on and said I was your favorite\nTo kiss in cars and downtown bars\nWas all we needed\nYou drew stars around my scars\nBut now I'm bleedin'\n'Cause I knew you\nSteppin' on the last train\nMarked me like a bloodstain, I\nI knew you\nTried to change the ending\nPeter losing Wendy, I\nI knew you\nLeavin' like a father\nRunning like water, I\nAnd when you are young, they assume you know nothing\nBut I knew you'd linger like a tattoo kiss\nI knew you'd haunt all of my what-ifs\nThe smell of smoke would hang around this long\n'Cause I knew everything when I was young\nI knew I'd curse you for the longest time\nChasin' shadows in the grocery line\nI knew you'd miss me once the thrill expired\nAnd you'd be standin' in my front porch light\nAnd I knew you'd come back to me\nYou'd come back to me\nAnd you'd come back to me\nAnd you'd come back\nAnd when I felt like I was an old cardigan\nUnder someone's bed\nYou put me on and said I was your favorite",
+  "duration": "4:20",
+  "file": "02 cardigan (songwriting voice memo).mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f44188b6ce5cdc32115c06"
+  },
+  "name": "the-best-jazz-club",
+  "image": "Jazz concert.jpg",
+  "album": {
+    "$oid": "65f42485ada4194ccc1c3c9a"
+  },
+  "date": {
+    "$date": "2024-03-15T12:22:48.202Z"
+  },
+  "artist": {
+    "$oid": "65f43b1ee047bb983fb59786"
+  },
+  "category": {
+    "$oid": "65f422b0ada4194ccc1c3c94"
+  },
+  "relesed": 2018,
+  "duration": "4:10",
+  "file": "the-best-jazz-club-in-new-orleans-164472.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f44230b6ce5cdc32115c08"
+  },
+  "name": "drive-breakbeat",
+  "image": "rb.jpg",
+  "album": {
+    "$oid": "65f42485ada4194ccc1c3c9a"
+  },
+  "date": {
+    "$date": "2024-03-15T12:22:48.202Z"
+  },
+  "artist": {
+    "$oid": "65f43b1ee047bb983fb59786"
+  },
+  "category": {
+    "$oid": "65f42238ada4194ccc1c3c92"
+  },
+  "relesed": 2016,
+  "duration": "3:90",
+  "file": "drive-breakbeat-173062.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f442d4b6ce5cdc32115c0a"
+  },
+  "name": "sunrise-bliss",
+  "image": "Sun.jpg",
+  "album": {
+    "$oid": "65f424a7ada4194ccc1c3c9c"
+  },
+  "date": {
+    "$date": "2024-03-15T12:22:48.202Z"
+  },
+  "artist": {
+    "$oid": "65f43b69e047bb983fb59788"
+  },
+  "category": {
+    "$oid": "65f421f4ada4194ccc1c3c90"
+  },
+  "relesed": 2014,
+  "duration": "4:90",
+  "file": "sunrise-bliss-190967.mp3",
+  "__v": 0
+}]

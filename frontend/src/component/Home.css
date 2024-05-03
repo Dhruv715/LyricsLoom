@@ -1,0 +1,130 @@
+.mainboxs{
+    background-color: black;
+    padding: 10px;
+    height: 100vh;
+     overflow-y: hidden;
+    overflow-x: hidden;
+    position: relative;
+}
+.boxypart{
+    width: calc(100vw - 25vw);
+    height: 100vh;
+    border-radius: 10px;
+    background-color: #121212;
+    /* padding: 10px; */
+    overflow: hidden;
+    position: fixed;
+    top: 0px;
+
+}
+.headerpart1{
+    /* position: fixed; */
+    overflow: hidden;
+    overflow-y: scroll;
+    display: flex;
+    height: 70px;
+    align-items: center;
+    padding: 0px 20px;
+    justify-content: space-between;
+    /* background-color: black; */
+}
+.headerpart1 .icons i{
+    padding: 5px  !important;
+    background-color: rgb(0, 0, 0);
+    color: gray;
+    font-size: 1.2rem;
+    border-radius: 50%;
+    margin: 0px 5px;
+}
+.buttons .sign{
+    color: gray;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 0px 10px;
+    margin-right: 10px;
+    transition: all  ease-in-out;
+}
+.boxs p{
+    text-overflow: ellipsis;
+}
+.buttons .sign:hover{
+    color: white;
+}
+.buttons .loginbtn{
+    background-color: white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    /* font-size: 1.rem; */
+    font-weight: 700;
+}
+.songlist{
+    height: calc(100vh - 70px);
+    background: linear-gradient(to bottom,#1f1f1f,#181818, #000000);
+}
+.rowflexy{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+    padding: 0px 35px;
+}
+.rowflexy h1{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+.rowflexy p{
+    color: gray;
+    font-weight: 700;
+}
+.cartboxflexy{
+    display: flex;
+    padding: 0px 20px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+.boxs{
+    width: 230px;
+    height: 350px;
+    margin: 10px;
+    background-color: #262626;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    text-align: center;
+    transition: all ease-in-out .5s;
+}
+.boxs:hover{
+    background-color: #282828;
+}
+.boxs img{
+    width: 90%;
+    margin: 10px auto;
+    object-fit: cover;
+    height: 230px;
+    border-radius: 20px;
+}
+.boxs h1{
+    text-align: left;
+    color: white;
+    font-size: 1.1rem;
+    padding: 0px 20px;
+}
+.boxs p{
+    text-align: left;
+    color: gray;
+    font-weight: 700;
+    font-size: .9rem;
+    padding: 0px 20px;
+}
+
+/* new-playlist */
+
+.new-playlist{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 6000;
+    background-color: aliceblue;
+}
